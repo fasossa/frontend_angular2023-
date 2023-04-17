@@ -3,6 +3,7 @@ para crear un modulo
 > ng g m admin --routing
 > ng g m core
 > ng g m shared
+> ng g s core/services/auth
 
 para generar component 
 
